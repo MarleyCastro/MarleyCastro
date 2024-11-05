@@ -1,6 +1,6 @@
-<h1> Marley Castto </h1>
+<h1> Marley Castro </h1>
 
-### Desenvolvedor Junior de Javascript 🤙
+<h3> ### Desenvolvedor Junior de Javascript 🤙</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marleynascimento978@gmail.com) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarleyCastro_1) 
