@@ -7,5 +7,4 @@
 
 
 ## Teconologia que eu uso no meu dia a dia
-Meu nome é Marley mas pode me chamar de bob, então minha tragetória começa em 2020 no ano da pandemia quando em uma ocasião diferente cai no video do Gustavo Guanabará em um curso de Pyton para conhecer as várivaeis e como a linguagem funciona até ali e vi que estava pegando gosto para coisa aí em 2024 resolvi ingressar em uma faculdade de ADS e agora etou me atulaizando para ser um dia Dev Senior 
-
+Meu nome é Marley, mas pode me chamar de Bob. Minha trajetória começou em 2020, no ano da pandemia, quando, em uma situação inusitada, encontrei um vídeo do Gustavo Guanabara em um curso de Python. Aprendi sobre variáveis e como a linguagem funcionava até aquele ponto, e percebi que estava realmente gostando de programação. Em 2024, decidi ingressar em uma faculdade de Análise e Desenvolvimento de Sistemas (ADS) e, agora, estou me atualizando para, um dia, me tornar um desenvolvedor sênior."
