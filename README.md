@@ -15,7 +15,7 @@ Olá! Me chamo Marley. Sou um desenvolvedor em constante evolução, com experi�
 # Youtube videos
 ![image](https://github.com/user-attachments/assets/6c5e39ea-d268-4b18-aff6-670551073798)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  style="width: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  style="width: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
