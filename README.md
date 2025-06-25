@@ -15,6 +15,7 @@ Olá! Me chamo Marley. Sou um desenvolvedor em constante evolução, com experi�
 # Youtube videos
 ![image](https://github.com/user-attachments/assets/6c5e39ea-d268-4b18-aff6-670551073798)
 
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  style="width: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  style="width: 100px;"/> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  style="width: 100px;"/>
@@ -26,7 +27,7 @@ Olá! Me chamo Marley. Sou um desenvolvedor em constante evolução, com experi�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"  style="width: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  style="width: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  style="width: 100px;"/>
-  
+<div/>
  
 <div> 
  <a href="https://www.youtube.com/@MarleyCode_1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
